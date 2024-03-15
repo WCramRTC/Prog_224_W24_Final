@@ -1,4 +1,4 @@
-**Assignment Title: Starbucks-like App for a cafe called "Why is it still dark outside, Joe? **
+# Assignment Title: Starbucks-like App for a cafe called "Why is it still dark outside, Joe?
 
 **Objective:**
 Develop a simple Starbucks-like application enabling users to manage product inventory, process customer orders, and generate receipts.
